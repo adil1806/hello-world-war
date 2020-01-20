@@ -3,7 +3,7 @@ pipeline {
     stages {
       stage('Pull From SCM'){
         steps{
-        git 'https://github.com/adil1806/mvn_sonar.git'
+        git 'https://github.com/adil1806/hello-world-war.git'
         }
         }
       stage('Analysis'){
