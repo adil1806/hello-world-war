@@ -13,6 +13,7 @@ pipeline {
       }
        stage('Build'){
         steps {
+          echo "adil"
         sh '/opt/maven/bin/mvn clean install'
         }
         }
