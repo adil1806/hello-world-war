@@ -24,7 +24,7 @@
    <version>1.0.2.Final</version>
    <configuration>
       <hostname>13.126.90.124</hostname>
-      <port>9999</port>
+      <port>9990</port>
       <username>admin</username>
       <password>admin</password>
    </configuration>
